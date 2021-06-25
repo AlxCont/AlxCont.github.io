@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Clean Blog - Start Bootstrap Theme</title>
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom fonts for this template -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic"
+      rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+      rel="stylesheet" type="text/css">
+    <!-- Custom styles for this template -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container"> <a class="navbar-brand" href="index.html">Start
+          Bootstrap</a> <button class="navbar-toggler navbar-toggler-right" type="button"
+          data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive"
+          aria-expanded="false" aria-label="Toggle navigation"> Menu <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"> <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link" href="about.html">About</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link" href="post.html">Sample
+                Post</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- Page Header -->
+    <header class="masthead" style="background-image: url('img/post-bg.jpg')">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <div class="post-heading">
+              <h1 style="text-align: center;">El viaje recurrente</h1>
+              <h2 class="subheading"><br>
+              </h2>
+              &nbsp;<span class="meta">Octubre del 2018</span> </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- Post Content -->
+    <article>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <div style="text-align: center;"><img src="file:///C:/Users/JAC/Desktop/Contraletra/img/evr.png"
+                alt="Estructura" title="El viaje recurrente" style="width: 263px; height: 262px;"></div>
+            <!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>  <o:RelyOnVML/>
+  <o:AllowPNG/> </o:OfficeDocumentSettings>
+</xml><![endif]--><span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif">Existe
+un
+              hombre cuyo sueño es recorrer el mundo. Sin embargo, sufre un
+              extraño
+              fenómeno: no puede desplazarse a ningún lugar.</span><span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"><br>
+            </span>
+            <p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"></span><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif">En
+su
+                primer intento prófugo, calza sus zapatos, viste una sudadera y
+                se aventura
+                a salir de su cuarto. Baja las escaleras, cruza la sala y abre
+                la puerta
+                principal mientras simultáneamente se conmueve con la emoción de
+                salir,
+                perderse planeando ¡qué maravillosos parajes visitar primero? es
+                tanta la
+                emoción que enciende la luz de su habitación. Sí, de su
+                habitación en la que
+                sin duda estaba.</span><span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"></span><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"><br>
+              </span></p>
+            <p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif">Sin
+perder
+                el ánimo, emprende hoy una segunda huida más radical. Salta
+                desde la
+                ventana de su cuarto y aterriza sobre la rama de una vieja, pero
+                fuerte, encina
+                del jardín vecino. Las ramas más pequeñas se enredan en su ropa,
+                pero se
+                precipita hacia el tronco principal y baja al suelo con un mal
+                salto que lo
+                deja postrado en el césped. Sin embargo, se levanta y corre
+                adolorido tan lejos
+                como le es posible. La fatiga lo asfixiaba, agarraba sus piernas
+                y no lo dejaba
+                avanzar. Así que extiende su brazo, abre el refrigerador y toma
+                una fría
+                botella de agua. Afortunadamente, siempre cuenta con agua fría
+                en el
+                refrigerador de su cocina. Sí, de su cocina en la que sin duda
+                estaba.</span><span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"><br>
+              </span></p>
+            <p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"></span><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif">Intenta
+una
+                y otra vez repetir el procedimiento con esperanzas de poder
+                salir por fin
+                de casa. No obstante, una y otra vez llega sin saber cómo: a su
+                baño por gracia
+                fría del agua que había tomado y lo urgía hacía sus necesidades
+                más básicas; a
+                su cuarto cuando recuerda que no había aplicado bloqueador
+                solar; a su sala
+                cuando nota que no llevaba un paraguas para el antipático clima
+                bogotano; a su
+                casa, siempre llegaba a su casa y no puede explicarse cómo lo
+                lograba si nunca
+                daba vuelta.</span><span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"></span><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"><br>
+              </span></p>
+            <p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif">Hoy
+nota
+                que algo en él, en su dilatación de los sucesos, le impedía
+                viajar, pero
+                siempre obstinado cede la responsabilidad a alguien más. Sale de
+                su casa y toma
+                un taxi. Insta al conductor a que lo llevara dónde quisiera
+                siempre y cuando
+                fuera muy lejos. Algo consternado y sin embargo con presura, el
+                conductor siguió
+                y persiguió la instrucción de alejarse. Las casas y las personas
+                retrocedían en
+                la ventana cada vez más rápido. Nuestro hombre mira hacia atrás
+                feliz de verlos
+                perderse en la distancia o desparecer con el ángulo responsable
+                de cada vuelta
+                del automóvil. No obstante, pasaron los minutos y el conductor
+                empezó a
+                sospechar que una instrucción tan maravillosa escondía cierto
+                engaño. En
+                seguida preguntó por cuánto tiempo seguirían alejándose y si
+                contaba con dinero
+                para pagar el recorrido. El auto se detuvo. El valor del viaje
+                hasta el momento
+                era de dieciséismil pesos. Desafortunadamente sólo cuenta con
+                docemil de modo
+                que pide al conductor esperar un minuto. Baja rápidamente del
+                auto y abre la
+                puerta de su casa, toma cuatromil pesos que había dejado sobre
+                la mesa del
+                comedor y sale de inmediato a pagar antes de que el conductor
+                piense que tenía
+                alguna intención genuina de estafarlo. El conductor recibió su
+                pago y en
+                seguida se marchó. Nuestro hombre ve cómo se aleja el vehículo
+                desde la puerta
+                de su casa. Sí, desde el umbral de la puerta de su casa en el
+                que sin duda
+                estaba.</span><span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"><br>
+              </span></p>
+            <p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif">Cansado
+por
+                lo sucedido, se acuesta a dormir con la convicción de que su
+                perseverancia
+                encontraría éxito al día siguiente. Amaneció y hoy se levanta
+                con un fervor
+                viajero renovado. Piensa hacer un viaje del cual ni el mismo
+                Odiseo podría
+                regresar, un viaje sin nostalgia. Toma sus tiquetes y un taxi al
+                aeropuerto.
+                Una vez en la aeronave, observa el oleaje de las nubes contra
+                las alas. Con el
+                folleto turístico de la isla Lipari en mano, pretende planear su
+                futura
+                aventura de perpetua erranza que iniciaría con un buen banquete
+                al llegar.
+                Aunque quizá sea más apropiado dormir cómodamente después de las
+                tres escalas
+                del viaje. Al día siguiente se encontraría con su tío Ayolo
+                Bonuvento quien le alquilaría
+                un bote para navegar las costas de Italia. Intenta dormir un
+                poco. No obstante,
+                su sueño murió prematuro. Se anunció que harían una parada de
+                emergencia debido
+                a que la aeronave necesitaba inspección. No ha de saberlo
+                nuestro hombre, pero
+                esa misma mañana los técnicos encargados de la revisión de la
+                nave tuvieron una
+                disputa por la diferencia de salarios y, fruto de la pugna, no
+                se hizo el
+                mantenimiento adecuado a las turbinas diestras, lo que les
+                impedía adiestrar
+                los siniestros vientos turbulentos que llegaban por el costado
+                derecho.</span><span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"><br>
+              </span></p>
+            <p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif">Dándose
+así
+                las cosas, fuera de su sueño por hechos repentinos, él empieza a
+                temer y se
+                da consuelo. Todo debe estar bien. Recuerda su meta real, su
+                meta de todos los
+                días. Ha viajado más de diez horas, ha visto las nubes cubrir
+                todo lo que para
+                él es conocido y no permitirá diversiones, perversiones, en su
+                viaje. Al
+                llegar, verterá sus pasos como gotitas furtivas fuera del
+                aeropuerto, sea cual
+                sea, para que el bucle fatal no se dé cuenta de su presencia. No
+                importará cual
+                sea el idioma local, si acaso convenga que resulte ser uno de
+                los tantos que
+                conoce, quizá desde allí pueda tomar un bus que lo interne en
+                esa nueva y
+                desconocida ciudad que tan bien recuerda. Sabe que estamos en
+                tiempos crueles y
+                hostiles, pero tratará de llegar a alguna casa y recurrirá a la
+                arcaica
+                hospitalidad o a la piedad, si es que estas pasiones pueden
+                hacer que alguna
+                familia lo admita en su hogar al menos por la noche. Contará
+                allí su historia
+                en medio de la cena y sabrán cómo ha sido perseguido.</span><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"></span><br>
+              <span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"></span></p>
+            <p class="MsoNoSpacing" style="text-align:justify;text-justify:inter-ideograph"><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"></span><span
+                style="font-size:14.0pt;mso-bidi-font-size:11.0pt;font-family:RotisSansSerif">Sí,
+sí,
+                ya aterriza la aeronave en la exótica ciudad. Ejecuta su plan.
+                Sale con
+                éxito del aeropuerto, mucho más fácil que cuanto fue planeado.
+                Toma el bus en
+                la parada de siempre, se baja en el vecindario que considera más
+                conveniente y encuentra
+                allí una casa de apariencia amigable. Llama a la puerta. Lo hace
+                de nuevo, una
+                vez más. No hay nadie en casa, pero él no quiere buscar otra. Ha
+                tomado la
+                determinación y debe entrar a esa casa antes de que el fatalismo
+                lo encuentre y
+                le aplique su mal de todos los días. De repente, recuerda que
+                siempre deja una
+                copia de la llave de la puerta principal enterrada en la maceta
+                con una flor
+                que está junto a la entrada. Curiosamente ve una concha de
+                caracol seca junto
+                al tallo y allí encuentra la llave justo como la considera. Saca
+                la llave y
+                limpia los residuos de tierra, decide probar la llave en la
+                puerta. Inicialmente
+                siente cierto alivio al comprobar que funciona, así mismo con
+                cada grado que
+                describe la apertura de la puerta empieza a sentir cierto temor
+                conocido. Sí,
+                el temor en el que sin duda estaba.</span><span style="font-size:14.0pt;
+mso-bidi-font-size:11.0pt;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri">&nbsp;</span><span
+                style="font-size:14.0pt;
+mso-bidi-font-size:11.0pt;font-family:RotisSansSerif"> </span>
+            </p>
+            <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>.
+              Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA
+                on The Commons</a>.</p>
+          </div>
+        </div>
+      </div>
+    </article>
+    <hr>
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <ul class="list-inline text-center">
+              <li class="list-inline-item"> <a href="#"> <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span> </a> </li>
+              <li class="list-inline-item"> <a href="#"> <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                  </span> </a> </li>
+              <li class="list-inline-item"> <a href="#"> <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                  </span> </a> </li>
+            </ul>
+            <p class="copyright text-muted">Copyright © Your Website 2018</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Custom scripts for this template -->
+    <script src="js/clean-blog.min.js"></script>
+  </body>
+</html>
